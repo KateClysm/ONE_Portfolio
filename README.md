@@ -49,6 +49,11 @@ Durante el desarrollo de este proyecto, completé los siguientes cursos ofrecido
 Puedes ver el resultado en vivo en:  
 🔗 **[Ver proyecto en vivo](kateclysm.github.io/ONE_Portfolio/)**
 
+## 📷 Visualización
+
+<img width="1809" height="862" alt="image" src="https://github.com/user-attachments/assets/015efdac-a18c-4297-b6f4-496d18eded1b" />
+
+
 ## 🙌 Agradecimientos
 
 Gracias a **Oracle Next Education** y **Alura Latam** por ofrecer esta oportunidad de aprendizaje y crecimiento en el área de desarrollo web.
