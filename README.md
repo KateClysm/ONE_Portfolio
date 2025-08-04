@@ -47,7 +47,7 @@ Durante el desarrollo de este proyecto, completé los siguientes cursos ofrecido
 ## 🌎 Publicación
 
 Puedes ver el resultado en vivo en:  
-👉
+👉 kateclysm.github.io/ONE_Portfolio/
 
 ## 🙌 Agradecimientos
 
